@@ -38,13 +38,13 @@ The mechanical structure and component mounts were designed using **Fusion 360**
 The circuit connections and wiring layout were designed and documented using **Fritzing**.
 
 ## Team
-Team Name: PARALYX
+**Team Name:** Team Paralyx
 
--Atharv Gawade(Team Leader)
--Gitanshu Tule
--Vaibhav Chelekar
--Nishant Suryawanshi
--Vishudhi Waykos
+- Atharv Gawade(Team Leader)
+- Gitanshu Tule
+- Vaibhav Chelekar
+- Nishant Suryawanshi
+- Vishudhi Waykos
 
 ## Domain
 DEFENCE
