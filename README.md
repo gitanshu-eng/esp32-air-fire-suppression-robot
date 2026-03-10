@@ -1,3 +1,55 @@
+# Autonomous Air-Based Fire Suppression Robot 🔥🤖
+
+## Overview
+
+This project presents an **Autonomous Fire Suppression Robot** designed to detect and extinguish small flames using an air-based suppression mechanism. The robot uses an **ESP32 microcontroller** to process sensor data, control movement, and activate the suppression system.
+
+Flame sensors continuously monitor the surroundings for fire. When a flame is detected, the robot navigates toward the source and activates a **fan-based air suppression system** powered by a DC motor to extinguish the fire. The system integrates sensors, motor drivers, and power modules to enable **autonomous detection, navigation, and suppression**.
+
+## Features
+
+* Autonomous fire detection using flame sensors
+* Air-based fire suppression using a fan mechanism
+* Autonomous navigation using IR sensors
+* Differential drive system using DC geared motors
+* Compact robotic chassis with modular design
+ 
+## Components Used
+
+* ESP32 Microcontroller
+* Flame Sensor
+* IR Sensor
+* Relay Module
+* Motor Driver
+* DC Geared Motors
+* DC Motor (for fan mechanism)
+* Fan
+* Buck Converter
+* Charging Module
+* Battery Holder
+* Switch
+
+## CAD Design
+
+The mechanical structure and component mounts were designed using **Fusion 360**. The parts were fabricated using **3D printing**, allowing a lightweight and modular chassis for the robot.
+
+## Circuit Design
+
+The circuit connections and wiring layout were designed and documented using **Fritzing**.
+
+## Team
+Team Name: PARALYX
+
+Atharv Gawade(Team Leader)
+Gitanshu Tule
+Vaibhav Chelekar
+Vishudhi Waykos
+
+## Domain
+DEFENCE
+
+---
+
 ## Code Working
 
 The program running on the ESP32 controls the robot’s movement, fire detection, and air-based suppression system. The robot continuously reads data from flame sensors and IR sensors to detect fire, navigate the environment, and activate the suppression mechanism when required.
