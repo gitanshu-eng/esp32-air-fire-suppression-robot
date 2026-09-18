@@ -40,12 +40,12 @@ The circuit connections and wiring layout were designed and documented using **F
 ## Team
 **Team Name:** Team Paralyx
 
-- Atharv Gawade(Team Leader)
+- Vishuddhi Waykos
 - Gitanshu Tule
 - Vaibhav Chelekar
 - Nishant Suryawanshi
-- Vishudhi Waykos
-
+- Athrav Gawade
+  
 ## Domain
 DEFENCE
 
